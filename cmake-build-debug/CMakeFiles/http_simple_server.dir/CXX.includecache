@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fflores/Desktop/tmp/http_simple_server/Server.cpp
+Server.hpp
+/Users/fflores/Desktop/tmp/http_simple_server/Server.hpp
+unistd.h
+-
+iostream
+-
+ostream
+-
+fstream
+-
+sstream
+-
+sys/socket.h
+-
+netdb.h
+-
+
+/Users/fflores/Desktop/tmp/http_simple_server/Server.hpp
+string
+-
+sys/select.h
+-
+

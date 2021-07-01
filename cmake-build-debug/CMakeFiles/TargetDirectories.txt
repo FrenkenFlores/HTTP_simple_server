@@ -1,0 +1,3 @@
+/Users/fflores/Desktop/tmp/http_simple_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fflores/Desktop/tmp/http_simple_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fflores/Desktop/tmp/http_simple_server/cmake-build-debug/CMakeFiles/http_simple_server.dir
